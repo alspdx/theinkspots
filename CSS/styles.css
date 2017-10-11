@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+.images {
+  width: 30%;
+  float: left;
+  background-color: black;
+}
+
+img {
+  width: 100%;
+}
+
+.text {
+  width: 40%;
+  float: right;
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
